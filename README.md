@@ -1,1 +1,3 @@
-# rag_with_llama3_bar
+# Oficina no BAR: Explorando a Integração de RAG com LLMs: Embeddings, Bancos de Dados Vetoriais e Contextualização
+
+Repositório voltado para a parte prática do Workshop: Explorando a Integração de RAG com LLMs: Embeddings, Bancos de Dados Vetoriais e Contextualização.
